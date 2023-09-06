@@ -1,0 +1,5 @@
+
+1
+goto class
+2
+a
